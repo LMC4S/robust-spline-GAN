@@ -1,0 +1,1 @@
+Rscript --vanilla <path_to_"main.R">  0.1 10 2000 100 1 rKL MOSEK 1 0.3 A TRUE <path_to_result_folder> 0 
